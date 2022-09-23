@@ -157,6 +157,7 @@
         }
         section.services .card-grid .card p{
         font-family: 'Lato', sans-serif;
+        text-align: justify;
         color: var(--seconday);
         line-height: 1.6;
         }
