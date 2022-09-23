@@ -46,6 +46,7 @@
     .hero{
     padding-top: 2rem;
     padding-bottom: 3rem;
+    text-align: center;
     }
     .hero .left img{
     width: 80px;
