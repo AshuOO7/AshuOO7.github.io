@@ -168,6 +168,7 @@
           border: 2px solid transparent;
           font-weight: bold;
           padding: 9px 22px;
+          margin: 20px;
           border-radius: 30px;
           transition: .4s; 
         }
