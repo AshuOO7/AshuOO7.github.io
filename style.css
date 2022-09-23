@@ -55,8 +55,9 @@
     .hero .left h1{
     font-size: 1.6rem;
     text-align: center;
-    margin: 90px;
+    margin: 60px;
     color: var(--primary);
+    margin-right: 1.5rem;
     margin-bottom: 0.5rem;
     }
     .hero .right {
