@@ -56,6 +56,7 @@
     }
     .hero .right h6{
     font-size: 3.4rem;
+    margin: 30px;
     color: var(--primary);
     margin-bottom: 0.5rem;
     }
