@@ -171,8 +171,8 @@
           transition: .4s; 
         }
         section.services .card-grid .card .button:hover{
-          background-color: transparent;
-          border: 2px solid var(--bgDark);
+          background-color: var(--bgDark);
+          border: 2px solid;
           cursor: pointer;
         }
         section.services .card-grid .card:hover{
