@@ -52,6 +52,13 @@
     .hero .left img{
     width: 80px;
     }
+    .hero .left h1{
+    font-size: 1.6rem;
+    text-align: center;
+    margin: 90px;
+    color: var(--primary);
+    margin-bottom: 0.5rem;
+    }
     .hero .right {
     color: var(--white);
     margin-top: -7rem;
