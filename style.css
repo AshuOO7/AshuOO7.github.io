@@ -56,8 +56,14 @@
     font-size: 1.6rem;
     text-align: center;
     color: var(--primary);
-    margin-right: 3rem;
     margin-bottom: 0.5rem;
+    }
+    .hero .left a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 2rem;
+    border-radius: 50%;
     }
     .hero .right {
     color: var(--white);
@@ -67,7 +73,7 @@
     font-size: 3.4rem;
     text-align: center;
     margin: 70px;
-    margin-left: 50px;
+    margin-left: 150px;
     color: var(--primary);
     margin-bottom: 0.5rem;
     }
