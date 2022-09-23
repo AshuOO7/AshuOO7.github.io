@@ -70,6 +70,7 @@
     }
     .hero .right p{
     line-height: 1.9;
+    text-align: justify;
     margin-bottom: 2rem;
     }
     section{
@@ -92,6 +93,7 @@
       font-family: 'Lato', sans-serif;
       color: var(--secondary);
       line-height: 1.9rem;
+      text-align: justify;
       margin-bottom: 2rem;
       }
       section.about .socials{
