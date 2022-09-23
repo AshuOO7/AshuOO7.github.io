@@ -58,13 +58,6 @@
     color: var(--primary);
     margin-bottom: 0.5rem;
     }
-    .hero .left a{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-right: 2rem;
-    border-radius: 50%;
-    }
     .hero .right {
     color: var(--white);
     margin-top: -7rem;
@@ -73,7 +66,7 @@
     font-size: 3.4rem;
     text-align: center;
     margin: 70px;
-    margin-left: 150px;
+    margin-left: 300px;
     color: var(--primary);
     margin-bottom: 0.5rem;
     }
