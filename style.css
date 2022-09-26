@@ -51,6 +51,7 @@
     }
     .hero .left img{
     width: 80px;
+    margin-right: 20px;
     }
     .hero .left h1{
     font-size: 1.6rem;
