@@ -43,19 +43,6 @@
     padding: 0 15px;
     margin: 0 auto;
     }
-    @media only screen and (max-width: 400px) {
-      .container {
-        width: 90%;
-        height: 90%;
-      }
-    }
-
-    @media only screen and (max-width: 1000px) {
-      .container {
-        width: 90%;
-        height: 90%;
-      }
-    }
     .hero{
     padding-top: 2rem;
     padding-bottom: 3rem;
@@ -215,31 +202,4 @@
         }
         section.services .card-grid .card:hover p{
         color: var(--white);
-        }
-        @media only screen and (max-width: 400px) {
-          .services {
-            width: 90%;
-            height: 90%;
-          }
-        }
-    
-        @media only screen and (max-width: 1000px) {
-          .services {
-            width: 90%;
-            height: 90%;
-          }
-        }
-
-        @media only screen and (max-width: 400px) {
-          .about {
-            width: 90%;
-            height: 90%;
-          }
-        }
-    
-        @media only screen and (max-width: 1000px) {
-          .about {
-            width: 90%;
-            height: 90%;
-          }
         }
