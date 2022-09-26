@@ -152,7 +152,7 @@ section.services .card-grid{
   display: grid;
   grid-template-columns: repeat(3,1fr);
   column-gap: 2rem;
-  }
+}
 section.services .card-grid .card{
   background: var(--white);
   padding: 3rem 2rem;
