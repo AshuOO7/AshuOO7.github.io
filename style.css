@@ -54,7 +54,7 @@
     }
     .hero .left h1{
     font-size: 1.6rem;
-    margin-top: 30px;
+    margin-top: 50px;
     text-align: center;
     color: var(--primary);
     margin-bottom: 0.5rem;
@@ -82,7 +82,8 @@
     }
     .hero .right p{
     line-height: 1.9;
-    text-align: center;
+    text-align: justify;
+    font-size: 0.9rem;
     margin-bottom: 2rem;
     }
     section{
