@@ -217,6 +217,20 @@
         color: var(--white);
         }
         @media only screen and (max-width: 400px) {
+          .services {
+            width: 90%;
+            height: 90%;
+          }
+        }
+    
+        @media only screen and (max-width: 1000px) {
+          .services {
+            width: 90%;
+            height: 90%;
+          }
+        }
+
+        @media only screen and (max-width: 400px) {
           .about {
             width: 90%;
             height: 90%;
