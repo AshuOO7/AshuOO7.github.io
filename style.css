@@ -65,7 +65,7 @@
     .hero .right h6{
     font-size: 3.4rem;
     text-align: center;
-    margin: 70px;
+    margin: 90px;
     color: var(--primary);
     margin-bottom: 0.5rem;
     }
@@ -81,7 +81,7 @@
     }
     .hero .right p{
     line-height: 1.9;
-    text-align: justify;
+    text-align: center;
     margin-bottom: 2rem;
     }
     section{
