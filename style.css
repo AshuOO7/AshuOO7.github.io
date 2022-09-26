@@ -168,7 +168,7 @@
         color: var();
         }
         section.services .card-grid .card h2{
-        font-weight: 600;
+        font-weight: bold;
         font-size: 1.1rem;
         margin-bottom: 0.5rem;
         }
